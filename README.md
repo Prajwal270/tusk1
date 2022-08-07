@@ -1,19 +1,5 @@
 
-## Installation
 
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
-    hr
-
-
-
-pajle
-hr
-## Used By
 
 This project is used by the following companies:
 
@@ -26,7 +12,7 @@ This project is used by the following companies:
 [Documentation](https://linktodocumentation)
 
 
-# Hi, I'm Katherine! 👋
+# Hi, I'm Prajwal Raj! 👋
 
 
 ## Optimizations
@@ -40,7 +26,7 @@ Javascript, HTML, CSS...
 
 ## Lessons Learned
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+This is just a repository which shows the steps on how to write a README.md file of github copilot
 
 
 ## API Reference
